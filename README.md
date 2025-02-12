@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sevdenurozcan
 - 👀 I’m interested in web developing.
 - 🌱 I’m currently learning React.js and AI with Python. 
-- 📫 How to reach me: e252084@metu.edu.tr
+- 📫 How to reach me: sevdenurozcan0@gmail.com
 - 😄 Pronouns: any pronouns.
 - ⚡ Fun fact: I love knitting and crocheting.
 
